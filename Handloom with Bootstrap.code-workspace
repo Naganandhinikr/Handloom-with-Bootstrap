@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Handloom"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Handloom with Bootstrap"
+	}
+}
